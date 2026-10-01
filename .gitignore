@@ -1,0 +1,4 @@
+node_modules/
+emsdk/
+c/bench_native
+c/bench_native.exe
